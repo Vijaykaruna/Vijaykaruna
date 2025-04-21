@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaykaruna" alt="vijaykaruna" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [https://vijaykaruna.github.io/Portfolio/](https://vijaykaruna.github.io/Portfolio/)
 
 - 📫 How to reach me **rasikalakarunanithi@gmail.com**
