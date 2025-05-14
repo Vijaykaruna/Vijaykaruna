@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vijaykaruna.github.io/Portfolio/](https://vijaykaruna.github.io/Portfolio/)
 
-- 📫 How to reach me **vijaykarunanithi2003@gmail.com**
+- 📫 How to reach me **rasikalakarunanithi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
